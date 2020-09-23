@@ -1,0 +1,142 @@
+
+
+
+body {
+  position: relative;
+  margin: 0;
+  text-align: center;
+font-family: 'IBM Plex Serif', serif;
+
+}
+
+
+h1 {
+text-align: center;
+color: #66BFBF;
+font-size: 100px;
+font-family: 'Courier Prime', monospace;
+line-height: 2;
+margin: 50px auto 0 auto;
+}
+
+
+h2 {
+color: #66BFBF;
+font-size: 50px;
+font-family: 'Poppins', sans-serif;
+font-weight: bold;
+margin: 100px auto 100px auto;
+}
+
+
+h3{
+color: #11999E;
+font-family: 'IBM Plex Serif', serif;
+}
+
+.top{
+position: relative;
+  padding-top: 100px;
+  background-color: #EAF6F6;
+     }
+
+  .top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+  }
+
+
+.bottom-cloud {
+  position:absolute;
+  left: 300px;
+  bottom: 300px;
+
+}
+
+.middle-container {
+
+}
+
+
+.bottom-container {
+  background-color: #66BFBF;
+}
+
+.skill-row {
+margin: 100px auto 100px auto;
+}
+
+.Stove {
+  border-radius: 50%;
+  width: 30%;
+  height: auto;
+  margin-top: 100px;
+}
+
+.beer {
+border-radius: 50%;
+width: 20%;
+
+}
+
+.dance {
+border-radius: 50%;
+width: 20%;
+
+}
+
+
+a {
+color: #11999E;
+}
+
+span {
+text-decoration: line-through;
+
+}
+
+.skills {
+  text-align: center;
+  line-height: 1.5;
+
+  }
+
+  .skill1 {
+  text-align:center;
+  line-height: 2;
+  margin: 100px 100px 100px 100px;
+
+  }
+
+
+.skill2 {
+text-align:center;
+ line-height: 2;
+margin:100px 100px 100px 100px;
+
+}
+
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    font-style: oblique;
+    width: 10%;
+}
+
+.btn {
+background-color: #66BFBF;
+border: none;
+color: white;
+padding: 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+border-radius: 50%;
+
+}
